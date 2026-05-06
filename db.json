@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Хари потър",
+      "author": "JK Rowling",
+      "genre": "Фантастика",
+      "status": "за четене",
+      "userId": "",
+      "added": true,
+      "userID": "дасдад"
+    },
+    {
+      "id": "2",
+      "title": "Хари потър 2",
+      "author": "JK Rowling",
+      "genre": "Фантастика",
+      "status": "за четене",
+      "userId": "",
+      "added": false
+    },
+    {
+      "id": "3",
+      "title": "Хари потър 3",
+      "author": "JK Rowling",
+      "genre": "Фантастика",
+      "status": "за четене",
+      "userId": "",
+      "added": false
+    },
+    {
+      "id": "4",
+      "title": "Хари потър 4",
+      "author": "JK Rowling",
+      "genre": "Фантастика",
+      "status": "за четене",
+      "userId": "",
+      "added": false
+    }
+  ],
+  "users": [
+    {
+      "username": "дасдад",
+      "email": "hokageto@abv.bg",
+      "password": "dsadasd",
+      "age": "32",
+      "id": "o8M7TX0qbXk"
+    },
+    {
+      "username": "1387fc30e",
+      "email": "natsu.dragon.son84@gmail.com",
+      "password": "дсадасд",
+      "age": "24",
+      "id": "bcbg02dMBes"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
